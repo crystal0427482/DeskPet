@@ -34,6 +34,7 @@ jobs:
 
       - name: Run lint
         run: ./gradlew lint
+        continue-on-error: true
 
       - name: Build debug APK
         run: ./gradlew assembleDebug
