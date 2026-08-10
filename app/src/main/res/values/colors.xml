@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hunger_bar">#FF6B6B</color>
+    <color name="happiness_bar">#FFD93D</color>
+    <color name="fatigue_bar">#6BCB77</color>
+    <color name="pet_body">#FFE4C4</color>
+    <color name="pet_dark">#D2956A</color>
+    <color name="pet_eye">#2C3E50</color>
+    <color name="pet_blush">#FFB3B3</color>
+</resources>

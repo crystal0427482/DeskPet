@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">桌面宠物</string>
+    <string name="btn_start_pet">启动宠物</string>
+    <string name="btn_stop_pet">关闭宠物</string>
+    <string name="btn_feed">喂食</string>
+    <string name="btn_play">玩耍</string>
+    <string name="btn_sleep">睡觉</string>
+    <string name="label_hunger">饥饿度</string>
+    <string name="label_happiness">开心度</string>
+    <string name="label_fatigue">疲劳度</string>
+    <string name="status_running">宠物正在运行中</string>
+    <string name="status_stopped">宠物已关闭</string>
+    <string name="channel_overlay">宠物悬浮窗</string>
+    <string name="channel_service">宠物服务</string>
+    <string name="permission_required">请授予悬浮窗权限</string>
+</resources>
